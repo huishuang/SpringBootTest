@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="/static/asserts/js/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="/static/asserts/css/bootstrap.min.css">
+    <link href="../static/asserts/css/crud.css" rel="stylesheet">
+    <script type="text/javascript" src="/static/asserts/js/crud.js"></script>
+</head>
+
+<body>
+    <div class="container" style="padding-top: 40px;"><!--整个盒子居中-->
+        <table class="table table-bordered text-center">
+            <tr >
+                <td colspan="4">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <input name="secbox" class="form-control secbox" id="secbox" placeholder="请输入想要查询信息的姓名"/>
+                            </div>
+                            <div class="col-md-3">
+                                <button class="btn btn-danger sec" id="sec">搜索</button><!--搜索确定-->
+                                <button class="btn btn-default add" data-toggle="modal" data-target="#addModal" id="btnAddData">增加</button>
+                                <!--data-toggle data-target 属性插入bootstrap事件自带的模态框事件-->
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tbody>
+                <tr>
+                    <th id="studentId">学号</th>
+                    <th id="name">姓名</th>
+                    <th id="age">年龄</th>
+                    <th>操作</th>
+                </tr>
+            </tbody>
+            <tbody id="tb">
+
+            </tbody>
+        </table>
+        </table>
+        <!--遮罩层-->
+        <div id="mymask" class="mask"></div>
+        <!--添加数据的表单-->
+        <div id="formAdd" class="form-add">
+            <div class="form-add-title">
+                <span>添加数据</span>
+
+                <div id="hideFormAdd">×</div>
+            </div>
+<!--            <div class="form-item">-->
+<!--                学号:<input name="mystudentId" class="lb" id="mystudentId" placeholder="请输入学号" value=""/>-->
+<!--            </div>-->
+            <div class="form-item">
+                姓名:<input name="myname" class="lb" id="myname" placeholder="请输入姓名" value=""/>
+            </div>
+            <div class="form-item">
+                年龄:<input name="myage" class="lb" id="myage" placeholder="请输入年龄" value=""/>
+            </div>
+            <div class="form-submit">
+                <input type="button" class="lb" value="添加" id="btnAdd">
+            </div>
+        </div>
+
+        <!--修改模态框-->
+        <div id="formUpdate" class="form-update">
+            <div class="form-update-title">
+                <span>修改数据</span>
+
+                <div id="hideUpdatedata">×</div>
+            </div>
+<!--                        <div class="form-item">-->
+<!--                            学号:<input name="mystudentId" class="lb" id="updatestudentId" placeholder="请输入学号" value=""/>-->
+<!--                        </div>-->
+            <div class="form-item">
+                姓名:<input name="name" class="lb" id="updatename" placeholder="请输入姓名" value=""/>
+            </div>
+            <div class="form-item">
+                年龄:<input name="age" class="lb" id="updateage" placeholder="请输入年龄" value=""/>
+            </div>
+            <div class="form-submit">
+                <input type="button" class="lb" value="确认修改" id="btnUpdate">
+            </div>
+        </div>
+
+
+    </div>
+</body>
+</html>

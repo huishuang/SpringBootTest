@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c31836c-f626-4626-b505-e2df25f36669" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RdCfNaOIS8swMVcYWxrOry46Wo" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../工作环境/springbootrestfulcrud" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\js" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\bootstrap" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\img" />
+      <recent name="D:\SpringBootTest\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ccut.qinrushi.controller" />
+      <recent name="ccut.qinrushi.componet" />
+      <recent name="ccut.qinrushi.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\css" />
+      <recent name="D:\SpringBootTest\src\main\resources\static" />
+      <recent name="D:\SpringBootTest\src\main\resources\templates" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\js" />
+      <recent name="D:\SpringBootTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudentcrulApplication">
+    <configuration name="All in SpringBootTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SpringBootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentcrulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBootTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ccut.qinrushi.StudentcrulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in SpringBootTest (1)" />
+        <item itemvalue="JUnit.All in SpringBootTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c31836c-f626-4626-b505-e2df25f36669" name="Default Changelist" comment="" />
+      <created>1569987687608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569987687608</updated>
+      <workItem from="1569987691515" duration="6464000" />
+      <workItem from="1570598852064" duration="10154000" />
+      <workItem from="1570609044841" duration="2070000" />
+      <workItem from="1570611159791" duration="18874000" />
+      <workItem from="1571021743151" duration="8255000" />
+      <workItem from="1571216296587" duration="75000" />
+      <workItem from="1571216483707" duration="224000" />
+      <workItem from="1571217118271" duration="22379000" />
+      <workItem from="1571621955618" duration="9962000" />
+      <workItem from="1571641809512" duration="1012000" />
+      <workItem from="1571642894749" duration="7430000" />
+      <workItem from="1571653536263" duration="337000" />
+      <workItem from="1571653940000" duration="64000" />
+      <workItem from="1571654022435" duration="10954000" />
+      <workItem from="1571819075185" duration="54086000" />
+      <workItem from="1572238344293" duration="2131000" />
+      <workItem from="1572437433656" duration="2187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
